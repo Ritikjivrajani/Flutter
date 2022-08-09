@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iphone 11",
+            "desc": "Apple iphone 11 128gb(white)",
+            "price": 49999,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/71QE00iB9IL._SL1500_.jpg"
+        },
+        {
+            "id": 2,
+            "name": "iphone 11 pro",
+            "desc": "Apple iphone 11 pro 256gb(midnight green)",
+            "price": 84999,
+            "color": "#00ac51",
+            "image": "https://shop.unicornstore.in/uploads/images/medium/303afedc632e96aeda9463381dfb088a.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "iphone 12",
+            "desc": "Apple iphone 12 128gb(Blue)",
+            "price": 59999,
+            "color": "#e0bfae",
+            "image": "https://m.media-amazon.com/images/I/71ZOtNdaZCL._SX679_.jpg"
+        },
+        {
+            "id": 4,
+            "name": "iphone 12 pro ",
+            "desc": "Apple iphone 12 pro 128gb(Gold)",
+            "price": 100999,
+            "color": "#544ee4",
+            "image": "https://m.media-amazon.com/images/I/71cSV-RTBSL._SX679_.jpg"
+        },
+        {
+            "id": 5,
+            "name": "iphone 13",
+            "desc": "Apple iphone 13 128gb(Pink)",
+            "price": 69999,
+            "color": "#e3e4e9",
+            "image": "https://m.media-amazon.com/images/I/61l9ppRIiqL._SX679_.jpg"
+        },
+        {
+            "id": 6,
+            "name": "iphone 13 pro",
+            "desc": "Apple iphone 11 128gb(Sierra Blue)",
+            "price": 120999,
+            "color": "#f73984",
+            "image": "https://m.media-amazon.com/images/I/61jLiCovxVL._SX679_.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Ipad Air 4th gen ",
+            "desc": "Apple Ipad Air 4th Gen 256gb WIFI+CELL(Grey)",
+            "price": 80999,
+            "color": "#1c1c1c",
+            "image": "https://m.media-amazon.com/images/I/71LJWOMyP4L._SX679_.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Ipad pro 3rd gen(M1)",
+            "desc": "Apple Ipad Pro 2021 model (M1 Chip) 512gb WIFI+CELL(Grey)",
+            "price": 124999,
+            "color": "#7c95eb",
+            "image": "https://m.media-amazon.com/images/I/81Y5WuARqpS._SX679_.jpg"
+        }
+    ]
+}
